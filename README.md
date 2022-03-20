@@ -1,7 +1,9 @@
 # BudgetLog
 
 ## Inspiration
-Cryptocurrency is gaining lot of potential and is proving to be trust worthy. With lot of attention around De-Fi and boom in crypto currency industry people are looking to enter this world. But, there is no proper standard way or tool to make transactions and view them in a simple layout. 
+We spend lot of money for different expenses regularly. Huge amounts can be accounted for and will be remembered but small spendings on daily basis cannot be remembered and accounted for. Especially youth who have no experience in financial planning and spending often neglect to analyze where they are spending. We need a proper system to track all our minute expenses as well. At the same time, Cryptocurrency is gaining lot of potential and is proving to be trust worthy. With lot of attention around De-Fi and boom in crypto currency industry people are looking to enter this world. But, there is no proper standard way or tool to make transactions and view them in a simple layout. 
+
+Budget Log solves this huge problem to track your expenses and serves as a bridge between Crypto markets and users of any level. **Especially for youth, in a generation where times are rapidly changing, learning how to properly budget and look after finances is of large importance. With this easy-to-use tracker, it is helping youth understand the importance of banking and financial planning.**
 
 Budget Log solves this huge problem and serves as a bridge between Crypto markets and users of any level.
 ## What it does
